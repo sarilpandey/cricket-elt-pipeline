@@ -1,0 +1,12 @@
+apache-airflow
+psycopg2-binary
+pandas
+requests
+boto3
+gspread
+oauth2client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+s3fs
+sqlalchemy
