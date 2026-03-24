@@ -23,7 +23,7 @@ This project builds a fully automated data pipeline that:
 
 # 🧠 Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](Images/architecture.png)
 
 ---
 
